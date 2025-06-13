@@ -6,6 +6,8 @@ LLM Data Analysis Tool
 
 The script implements a comprehensive topic modeling system for consumer complaints, utilizing classical (LDA, LSA, NMF) and semantic (Word2Vec, BERT) models to extract themes from text data. It provides unified text preprocessing with spaCy, generates word clouds for the top models, and delivers coherence metrics alongside LLM-generated summaries of key themes. The system is user-friendly, allows dataset size selection via a CLI interface, and ensures reproducibility through fixed seeds.
 
+![Screenshot](assets/iu.png)
+
 # features
 
 - Unified spaCy preprocessing (lemmatization, stopword removal).
@@ -50,3 +52,8 @@ tqdm
 transformers
 wordcloud
 ollama
+
+![Screenshot](assets/count.png)
+![Screenshot](assets/bertword2vec.png)
+![Screenshot](assets/llm%20summary.png)
+![Screenshot](assets/coherence.png)
