@@ -63,6 +63,6 @@ LLM Summary
 Coherence
 ![Screenshot](assets/coherence.png)
 BERT Wordcloud
-![Screenshot](assets/bertword2vec.png)
+![Screenshot](wordclouds/bert_topic_0.png)
 # data
 Kaggle https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
