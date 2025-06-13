@@ -62,3 +62,6 @@ LLM Summary
 ![Screenshot](assets/llm%20summary.png)
 Coherence
 ![Screenshot](assets/coherence.png)
+
+# data
+Kaggle https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints
