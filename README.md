@@ -30,7 +30,7 @@ The script implements a comprehensive topic modeling system for consumer complai
 
 # start
 - python analyse.py 
-- for other seed then 42 use: python analyse.py --seed 22
+- for other seed then 42 use: python analyse.py --seed <number>
 - it uses the column 'issue'
 - cuda is recommended, but not neccessary  
 
