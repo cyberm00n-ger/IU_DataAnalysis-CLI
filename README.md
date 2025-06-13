@@ -29,10 +29,10 @@ The script implements a comprehensive topic modeling system for consumer complai
 - ollama pull llama3:latest
 
 # start
-python analyse.py 
-for other seed then 42 use: python analyse.py --seed 22
-it uses the column 'issue'
-cuda is recommended 
+- python analyse.py 
+- for other seed then 42 use: python analyse.py --seed 22
+- it uses the column 'issue'
+- cuda is recommended, but not neccessary  
 
 # bibs used
 
