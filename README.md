@@ -1,6 +1,6 @@
 # IU_DataAnalysis-CLI
 
-LLM Data Analysis Tool 
+IU Topic Modeling System 1.0 with LLM Analysis
 
 # summary
 
