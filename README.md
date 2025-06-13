@@ -53,7 +53,12 @@ transformers
 wordcloud
 ollama
 
+# screenshots
+Processing
 ![Screenshot](assets/count.png)
+10 Topics
 ![Screenshot](assets/bertword2vec.png)
+LLM Summary
 ![Screenshot](assets/llm%20summary.png)
+Coherence
 ![Screenshot](assets/coherence.png)
