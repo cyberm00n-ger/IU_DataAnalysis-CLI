@@ -34,7 +34,7 @@ The script implements a comprehensive topic modeling system for consumer complai
 - it uses the column 'issue'
 - cuda is recommended, but not neccessary  
 
-# bibs used
+# bibs
 
 argparse
 os
